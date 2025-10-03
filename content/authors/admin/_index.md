@@ -6,11 +6,8 @@ title: Yancan Chen
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
+first_name: Yancan
+last_name: Chen
 
 # Status emoji
 status:
