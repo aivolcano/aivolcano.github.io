@@ -34,9 +34,18 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/aivolcano/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Academic websites
+  arxiv            : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=dchZeukAAAAJ&hl=zh-CN&oi=ao&inst=3212728378801010220"
+  semantic         : # URL
+  impactstory      : # URL
+  orcid            : # URL
+  pubmed           : # URL
+  researchgate     : # Username
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username

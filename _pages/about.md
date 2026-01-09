@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yancan Chen, a CS PhD Candidate in School of Computer Science at Shanghai Jiao Tong University. supervised by [Yun Lin] (http://linyun.info/) 
- I obtained CS master degree at National University of Singapore (NUS School of Computing), supervised by Prof. [Yi-Chich Lee](https://www.comp.nus.edu.sg/cs/people/yclee/).
+Hi, I am Yancan Chen, a CS PhD Candidate in School of Computer Science at Shanghai Jiao Tong University (SJTU). I advise by [Yun Lin](http://linyun.info/) and [Ruofan Liu](https://lindsey98.github.io/liuruofan//). Before moving to SJTU, I obtained CS master degree at National University of Singapore (NUS School of Computing), supervised by Prof. [Yi-Chich Lee](https://www.comp.nus.edu.sg/cs/people/yclee/).
 
 My interest lie in LLMs-based Multi-agent for Deep Research. 
 
