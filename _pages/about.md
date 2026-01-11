@@ -21,10 +21,11 @@ Education
 
 Selected Publication
 ======
-**Co-first author**
-- Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization
+- What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma, Han Meng, *Yancan Chen*, Yunan Li, Yitian Yang, Jungup Lee, Renwen Zhang, Yi-Chieh Lee
 
-  Jianfei Xiao*, **Yancan Chen(Co-first author)**, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization).
+ACL (Oral) 2025 And 🏆 SAC Highlights Award (top 2.7%) [PDF](https://aclanthology.org/2025.acl-long.272/), [Code](https://github.com/HanMeng2004/Mental-Health-Stigma-Interview-Corpus)
+
+- Baichuan2-Sum: Instruction Finetune Baichuan2-7B Model for Dialogue Summarization, Jianfei Xiao*, **Yancan Chen(Co-first author)**, Yimin Ou, Hanyi Yu, Kai Shu, Yiyong Xiao, [PDF](https://arxiv.org/abs/2401.15496), [Code](https://github.com/aivolcano/LLM4DialogueSummarization).
 
   Accepted by IJCNN 2024 (A top-tier paper)
 
