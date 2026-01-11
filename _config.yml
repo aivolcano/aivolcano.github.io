@@ -21,7 +21,7 @@ repository               : "aivolcano/aivolcano.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://aivolcano.github.io/images/profile.png"
   name             : "Yancan Chen"
   pronouns         : # example: "she/her"  
   bio              : "A PhD Candidate in Computer Science at Shanghai Jiao Tong University"
