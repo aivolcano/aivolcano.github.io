@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yancan Chen, a graduate student in Department of Computer Science at National Univeristy of Singapore (NUS), supervised by Prof. [Yi-Chich Lee](https://www.comp.nus.edu.sg/cs/people/yclee/).
+Hi, I am Yancan Chen, a CS PhD Candidate in School of Computer Science at Shanghai Jiao Tong University (SJTU). I advise by [Yun Lin](http://linyun.info/) and [Ruofan Liu](https://lindsey98.github.io/liuruofan//). Before moving to SJTU, I obtained CS master degree at National University of Singapore (NUS School of Computing), supervised by Prof. [Yi-Chich Lee](https://www.comp.nus.edu.sg/cs/people/yclee/).
 
-I am working on multi-modal model retrievals and Multi-agent system.
+My interest lie in LLMs-based Multi-agent for Deep Research. 
 
 Education
 ======
-M.S. in Computer Science at National University of Singapore, 2025
-* Research Assistant in NUS [AI4SG](https://www.ai4sg.org/) Lab
-* Research Inter at AI Research Centre, [Yangtze Delta Region Institute of Tsinghua University](https://www.tsinghua-zj.edu.cn/en/home). 
+* CS Phd at Shanghai Jiao Tong University, 2025 
+* M.S. in Computer Science at National University of Singapore, 2025
+  * Research Assistant in NUS [AI4SG](https://www.ai4sg.org/) Lab
+  * Research Inter at AI Research Centre, [Yangtze Delta Region Institute of Tsinghua University](https://www.tsinghua-zj.edu.cn/en/home). 
 
 
 Selected Publication
