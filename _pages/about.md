@@ -44,13 +44,10 @@ ACL (Oral) 2025 And 🏆 SAC Highlights Award (top 2.7%) [PDF](https://aclanthol
 
 
 
-Project 
+<!-- Project 
 ------
 Medical Named Entity Recognition (NER) and Knowledge Graph Construction
 * Employ Noise Embedding methods on Word Embedding of Qwen2-7B, The F1 score increases by 1 precent point.
 * Employ the KTO Reinforcement Learning (RL) to improve Nested Named Entity Recognition (Nested NER)
-* Qwen2 does not support the XML Tag (e.g. <person>Yancan Chen</person>) entity annotation. By training with Supervised Fine-Tuning (SFT) and Reinforcement Learning from Preferences (DPO), it can be endowed with this capability.
+* Qwen2 does not support the XML Tag (e.g. <person>Yancan Chen</person>) entity annotation. By training with Supervised Fine-Tuning (SFT) and Reinforcement Learning from Preferences (DPO), it can be endowed with this capability. -->
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
